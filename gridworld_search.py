@@ -1,4 +1,6 @@
-# grid_world_astar.py
+# Lara Radovanovic
+# 2025-09-21
+# CAI5005 - Intro to AI
 # Grid World Resource Gathering — A* Search (Tkinter)
 # HUD + Speed Control + Legend + Show/Hide Path toggle
 
@@ -7,6 +9,10 @@ from tkinter import ttk
 import time
 import heapq
 import threading
+
+# CODE ADAPTED FROM https://www.youtube.com/watch?v=UgsVkRwh6mQ
+# Last accessed: 2025-09-21
+
 
 # --------------------------
 # Problem constants
